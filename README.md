@@ -9,7 +9,6 @@ Loves to explore new tools and technology, Currently I am working as a Automatio
 
 [![Twitter Badge](https://img.shields.io/badge/-@gaurav-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/GauravR78245358)  [![Linkedin Badge](https://img.shields.io/badge/-GauravRajpoot-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-rajpoot-4a6b64141/)[![Mail Badge](https://img.shields.io/badge/-@gauravRajpoot-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gaurav27rajpoot@gmail.com)
 
-<p><img align="right" alt="Coding" width="400" src="https://1.bp.blogspot.com/-y3U0rI_qsCI/XqBGRYOYljI/AAAAAAAAoxo/sCiVQJiNyuoHrk6VENcK9rvvlQNxXSDVgCLcBGAsYHQ/s500/clipartfest.gif"></p>
 
 - 🔭 I’m currently working at @Nagarro
 - 🌱 I’m currently learning **Data science**
